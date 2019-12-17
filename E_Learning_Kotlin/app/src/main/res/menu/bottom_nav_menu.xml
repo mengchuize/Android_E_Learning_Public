@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/a"
+        android:title="学吧" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/c"
+        android:title="知圈" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/d"
+        android:title="我的" />
+
+</menu>

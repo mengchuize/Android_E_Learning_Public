@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/loginbg"
-    tools:context=".Login.LoginActivity">
+    tools:context=".login.LoginActivity">
 
     <EditText
         android:id="@+id/editText_username"
@@ -81,5 +81,16 @@
         app:layout_constraintHorizontal_bias="0.749"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/editText_password" />
+
+    <Button
+        android:id="@+id/button20"
+        android:layout_width="53dp"
+        android:layout_height="53dp"
+        android:layout_marginTop="676dp"
+        android:text="qq"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.955"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

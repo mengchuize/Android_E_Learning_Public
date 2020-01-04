@@ -8,13 +8,11 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.e_learning_kotlin.Login.LoginActivity
 import com.e_learning_kotlin.R
 import com.e_learning_kotlin.courses.python1Activity
 import com.e_learning_kotlin.courses.python2Activity
 import com.e_learning_kotlin.sourse.sourse
 import org.json.JSONArray
-import org.json.JSONObject
 import java.util.*
 
 class fragment_python : Fragment() {

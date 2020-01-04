@@ -1,4 +1,4 @@
-package com.e_learning_kotlin.My
+package com.e_learning_kotlin.my
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
